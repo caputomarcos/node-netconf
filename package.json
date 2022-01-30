@@ -27,7 +27,7 @@
     "url": "https://github.com/darylturner/node-netconf/issues"
   },
   "dependencies": {
-    "ssh2": "^0.4.12",
+    "ssh2": "^0.8.9",
     "xml2js": "^0.4.15",
     "vasync": "^1.6.3"
   },
